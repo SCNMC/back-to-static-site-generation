@@ -4,10 +4,9 @@
 </script>
 
 <section>
-	<a href={standardUID}>{standardTitle}</a>
+	<a href="#">{standardTitle}</a>
 	<slot />
 </section>
-
 <style>
 	section {
 		display: flex;
