@@ -2,8 +2,9 @@
 Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# 🤖 back-to-static-site-generation
+
+<img width="1443" alt="Schermafbeelding 2022-12-17 om 14 34 43" src="https://user-images.githubusercontent.com/90189750/208244553-31ed3b7f-49e0-4cae-b1da-b555157ad7fa.png">
 
 ## Inhoudsopgave
 
@@ -14,12 +15,14 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+## 📖 Beschrijving
+Deze opdracht stond in het teken van statisch gegenereerde websites. Dit is vooral bedoeld om de perfomance van je website erop vooruit te laten gaan. Ik heb dit toegepast op de cmd midterm website. 
 
-## Kenmerken
+## 💡 Kenmerken
+ - Sveltekit
+ - @sveltejs/adapter-static
+ - Prismic.io
+
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
 ## Installatie
